@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(46, 39, 39);
+}
+
+.upperdiv{
+    background-color: rgb(88, 11, 11);
+
+}
+.innerdiv{
+    display:flex;
+    justify-content: space-between;
+}
+
+ul{
+    display: flex;
+    list-style-type: none;
+    font-size: 20px;
+    color: rgb(223, 209, 209);
+    
+}
+h1{
+    color: rgb(231, 228, 228);
+     text-align: left;
+}
+li{
+    text-align: right;
+    padding-right: 50px;
+    
+}
+.lowerdiv{
+   background-color:rgb(231, 106, 60);
+   height: 15px;
+}
+
+
+
+    
+.ppt{
+    color: rgb(202, 187, 187);
+    background-color: rgb(46, 39, 39);
+    width: 30%;
+    margin: auto;
+    padding-left: 100px;
+    box-sizing: border-box;
+  
+ 
+}
+
+.input{
+    border-radius: 10px;
+}
+
+
+h2{
+color:rgb(233, 217, 217);
+}
+.div2{
+    background-color:rgb(10, 10, 10);
+    height: 200px;
+    padding:300px;
+    
+}
+a:visited{
+    color:rgb(226, 208, 208);
+}
+a:hover{
+    background-color: rgb(14, 13, 13);
+    color: rgb(255, 255, 255);
+}
+p{
+    list-style-type: square;
+}
+.lastdiv{
+    background-color: rgb(10, 3, 3);
+    border: 15px;
+    height: 250px;
+    padding:100px;
+    
+}
+.ton{
+    background-color: rgb(250, 9, 9);
+    border-radius: 200px;
+}
+.itemactive{
+    color:rgb(231, 221, 221);
+}
+    
+.b{
+    color: red;
+}
+
